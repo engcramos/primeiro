@@ -1,4 +1,4 @@
-BARCODE	INDEX	DATE	S.TIME	E.TIME	CYCLE	JOB	RESULT	USER	LOTINFO	MACHINE	SIDE
+BARCODE	INDEs	DATE	S.TIME	E.TIME	CYCLE	JOB	RESULT	USER	LOTINFO	MACHINE	SIDE
  	 5074	2020-11-27	10:19:59	10:20:15	   16	5000-001432	GOOD	SV	 	KOHYOUNG	T
 Component ID	PadID	Height(um)	Volume(%)	 Area(%)	OffsetX(mm)	OffsetY(mm)	     Job	    Spec	Array	PinNumber	  Result	 Barcode	
       1:D1	    1	 159.849	 128.818	 102.346	  -0.016	  -0.019	C:\Kohyoung\Job\5000-001432.mdb		1	      1	              GOOD		
